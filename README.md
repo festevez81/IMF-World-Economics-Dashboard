@@ -6,12 +6,14 @@ The IMF World Economic Outlook (WEO) database is an extensive and invaluable res
 # Objectives
 
 The primary objectives of this dashboard project are:
+
 •	Data Visualization: Present the economic data in an easily understandable and visually appealing manner.
 •	Comparative Analysis: Allow users to compare economic indicators across different countries and regions.
 •	Trend Analysis: Identify and analyze trends in key economic indicators over time.
 •	Interactive Exploration: Enable users to interactively explore the data and gain deeper insights into specific economic indicators.
 
 Key Indicators
+
 The dashboard will focus on the following key economic indicators:
 
 •	Gross Domestic Product (GDP): Represents the total value of goods and services produced within a country.
