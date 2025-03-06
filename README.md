@@ -45,12 +45,9 @@ https://github.com/festevez81/IMF-World-Economics-Dashboard/blob/main/WORLD%20GD
 ## The scope of this project includes:
 
 1.	Data Collection: Extracting and preparing data from the IMF WEO database for use in Power BI.
-2.	
-3.	Dashboard Design: Designing intuitive and informative visualizations for each key indicator.
-4.	
-5.	Interactivity: Adding interactive elements such as filters, slicers, and drill-down capabilities to enhance user exploration.
-6.	
-7.	Analysis and Insights: Analyzing the visualized data to derive meaningful insights and trends.
-8.	
-9.	Reporting: Creating detailed reports and summaries based on the dashboard visualizations.
+2.	Dashboard Design: Designing intuitive and informative visualizations for each key indicator.
+3.	Interactivity: Adding interactive elements such as filters, slicers, and drill-down capabilities to enhance user exploration.
+4.	Analysis and Insights: Analyzing the visualized data to derive meaningful insights and trends.
+5.	Reporting: Creating detailed reports and summaries based on the dashboard visualizations.
+
 
