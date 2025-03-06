@@ -37,4 +37,7 @@ The dashboard will focus on the following key economic indicators:
 
 https://github.com/festevez81/IMF-World-Economics-Dashboard/blob/main/IMF%20WORLD%20DATA.xlsm
 
+https://github.com/festevez81/IMF-World-Economics-Dashboard/blob/main/WEO_Data.xls
+
+https://github.com/festevez81/IMF-World-Economics-Dashboard/blob/main/WORLD%20GDP%20USD.xlsm
 
