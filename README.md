@@ -1,9 +1,9 @@
-## Introduction to IMF WEO Database Dashboard
-# Overview
+# Introduction to IMF WEO Database Dashboard
+## Overview
 
 The IMF World Economic Outlook (WEO) database is an extensive and invaluable resource that provides comprehensive macroeconomic data for countries across the globe. It includes various indicators that help analyze and project economic developments at the global level, in major country. This Power BI dashboard project aims to visualize and analyze the key economic indicators provided by the IMF WEO database, offering valuable insights into the economic health and trends of different countries.
 
-# Objectives
+## Objectives
 
 The primary objectives of this dashboard project are:
 
@@ -33,11 +33,24 @@ The dashboard will focus on the following key economic indicators:
 
 •	Per Capita Income: Measures the average income of the citizens of a country.
 
-## Dataset used
+# Dataset used
 
 https://github.com/festevez81/IMF-World-Economics-Dashboard/blob/main/IMF%20WORLD%20DATA.xlsm
 
 https://github.com/festevez81/IMF-World-Economics-Dashboard/blob/main/WEO_Data.xls
 
 https://github.com/festevez81/IMF-World-Economics-Dashboard/blob/main/WORLD%20GDP%20USD.xlsm
+
+# Project Scope
+## The scope of this project includes:
+
+1.	Data Collection: Extracting and preparing data from the IMF WEO database for use in Power BI.
+2.	
+3.	Dashboard Design: Designing intuitive and informative visualizations for each key indicator.
+4.	
+5.	Interactivity: Adding interactive elements such as filters, slicers, and drill-down capabilities to enhance user exploration.
+6.	
+7.	Analysis and Insights: Analyzing the visualized data to derive meaningful insights and trends.
+8.	
+9.	Reporting: Creating detailed reports and summaries based on the dashboard visualizations.
 
