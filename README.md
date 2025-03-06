@@ -15,7 +15,7 @@ The primary objectives of this dashboard project are:
 
 •	Interactive Exploration: Enable users to interactively explore the data and gain deeper insights into specific economic indicators.
 
-Key Indicators
+# Key Indicators
 
 The dashboard will focus on the following key economic indicators:
 
