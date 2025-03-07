@@ -58,6 +58,11 @@ The dashboard will focus on the following key economic indicators:
 <a href="https://github.com/festevez81/IMF-World-Economics-Dashboard/blob/main/IMF%20WORLD%20DATA.pbix">View Dashboard</a>
 
 ![Dashboard Image](https://github.com/user-attachments/assets/ed08f6eb-b429-45a0-be16-a3bb39e41292)
+![Dashboard Image2](https://github.com/user-attachments/assets/1337281f-ce6a-40a8-9067-06a22b19eb17)
+![Dashboard Image3](https://github.com/user-attachments/assets/28d19446-c4e7-4790-8dc0-3ca3fda38a25)
+
+
+
 
 # Conclusion
 This IMF WEO database dashboard in Power BI aims to provide a comprehensive, interactive, and visually appealing platform for analyzing key economic indicators. It will serve as a valuable tool for economists, researchers, policymakers, and anyone interested in understanding the economic dynamics of different countries.
