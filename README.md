@@ -1,3 +1,6 @@
+![IMF LOGO](https://github.com/user-attachments/assets/ded0e21b-1e16-4895-ad4f-aa6a34391bcf)
+
+
 # Introduction to IMF WEO Database Dashboard
 ## Overview
 
